@@ -19,6 +19,7 @@ public class Main {
 
         getRuntimes();
         System.out.println("Added this.");
+        System.out.println("Add another");
     }
 
     private static void play(int n, int m) {
